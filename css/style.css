@@ -1,0 +1,77 @@
+kkuk*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border-bottom: 1px solid rgb(95, 87, 87);
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding: 30px 0px;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{width: 70px;}
+nav{
+
+width: 40%;
+
+float: right;
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 40px;
+    
+text-transform: capitalize;
+    
+font-size: 15px;
+    
+color: #8e7f7f;
+}
+.content-section{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content-section h1{
+
+font-size: 40px;
+
+text-transform: capitalize;
+
+margin-top: 30px;
+}
+.content-section h2{
+
+font-size: 40px;
+
+text-transform: capitalize;
+
+color: #008AFF;
+
+margin: 15px 0;
+}
+.content-section p{
+
+color: #6f6060;
+
+font-size: 15px;
+
+margin: 20px 10px;
+}
+.content-section img{
+    
+}
